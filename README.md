@@ -1,2 +1,2 @@
 # Introduction-to-Robotics
-On this repository i will constantly uploud homeworks from laboratory
+On this repository I will constantly uploud homeworks from laboratory
