@@ -24,4 +24,4 @@ There are also monsters that the Doodler must avoid, shoot, or jump on to elimin
 * Button
 
 ## Real Game Demo
-![](doodlejump.gif)
+![](DoodleJump.gif)
