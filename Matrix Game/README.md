@@ -7,7 +7,7 @@ platforms without falling. The left side of the playing field is connected with 
 The player gets points for every 3 seconds he has lived. The player has 3 lives and he will lose one every time he falls
 
 # Levels
-The player starts from level 1 and after reaching a certain score he will get to the next level and so on.(10 points are needed to advance to level 2 and 32 points to level 3)
+The player starts from level 1 and after reaching a certain score he will get to the next level and so on.(10 points are needed to advance to level 2 and 32 points to level 3).
 From level 3 the player can play for an infinit amount of time or for how long he can resist.
 - Level 1 - width of the platforms is 4, Level 2 - width of the platforms is 3, Level 3 - width of the platforms is 2
 
