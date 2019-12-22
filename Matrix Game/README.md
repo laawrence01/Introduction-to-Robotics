@@ -32,8 +32,8 @@ to press again if he wants to go back to the menu.
 the speed at which every line of the matrix is shifted downwards.
 - The difficulties are: Baby - 1.5 seconds , Novice - 800 miliseconds , Hero - 600 miliseconds , Insane - 300 miliseconds
 
-- The Info section will display the name of maker:(my name) , the name of the game , my github link and 
-a shoutout to  unibucrobotics.
+- The Info section will display the name of the maker:(my name) , the name of the game , my github link and 
+a shoutout to unibucrobotics.
 - The highest score will be stored in HScore alongside with the name of the currently player.
 
 # Requirments
@@ -43,9 +43,11 @@ a shoutout to  unibucrobotics.
 * MAX7219 Driver
 * Button
 
-# Link to game video
+# Link to the video:
+https://youtu.be/mlrxVCvy0KM
 
 # Asambled Project
+![](Pic1.jpeg)
 
 ## Real Game Demo
 ![](DoodleJump.gif)
