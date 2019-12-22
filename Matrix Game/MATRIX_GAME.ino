@@ -229,8 +229,8 @@ void scoreFuntion() {
     else if (level == 2) {
       score = score + 2;
     }
-    else if (level == 3) {
-      score = (score + 3) * 2;
+    else {
+      score = score + 3;
     }
     prevScoreTime = scoreTime;
   }
