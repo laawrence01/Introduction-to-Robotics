@@ -13,6 +13,7 @@ From level 3 the player can play for an infinit amount of time or for how long h
 
 # Score
 The score is incremented by 1 for every 3 seconds at level 1 , by 2 at level 2 and by 3 at level 3.
+The score is saved to EEPROM and it remains saved if the game is restarted.
 
 # Controls
 The movement is being done by using the X axis of thejoystick to control the Doodle left and right and the button 
