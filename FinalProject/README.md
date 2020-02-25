@@ -12,6 +12,7 @@ To make the flower feel more realistic i added an 8x8 matrix in the middle so it
 The matrix has 2 different states:
 - Happy - when all of the 4 light sensors are getting enough light 
 - Sad - when she doesnt receive enough light
+![](faces.jpeg)
 
 # Components
 - 1 Arduino Uno
