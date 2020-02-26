@@ -43,4 +43,6 @@ Video : https://www.youtube.com/watch?v=YL3t20QbSPs&feature=youtu.be
 BOM LINK : https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1137137917
 
 # Hardware Photos:
+![](1.jpg)
 
+![](2.jpg)
