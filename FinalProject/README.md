@@ -35,8 +35,12 @@ move the vertical servo motor(if top > bottom move the servo motor in one direct
 - For the matrix i made 1 animation which displays a happy face when 
 all of the 4 sensors are receving light over a certain value and 1 animation which displays a sad face when at least one is not
 getting enough light
+- The vertical and horizontal axis have defined limits so they wont spin more than 130 - 180 degrees 
 
+# Video and BOM links:
+Video : https://www.youtube.com/watch?v=YL3t20QbSPs&feature=youtu.be
 
+BOM LINK : https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1137137917
 
-
+# Hardware Photos:
 
